@@ -70,10 +70,10 @@ function App() {
   }]
 
   const randomResponse = () => {
-  let index = 1;
+  let index = 0;
    
     let x = 0;
-while (n < 12) {
+while (index < 12) {
   index++;
   x += index;
 }
