@@ -29,17 +29,17 @@ function App() {
     img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
   },
   {
-    id: 3,
+    id: 4,
     description: "No le temas Al Exito BB 😘.",
     img: "https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif"
   },
   {
-    id: 4,
+    id: 5,
     description: "Confía en mí y Sale su Pollito a la brasa xD.",
     img: "https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif"
   },
   {
-    id: 5,
+    id: 6,
     description: "No tengas dudas, te hare sonreír por siempre Hermosa.",
     img: "https://i.pinimg.com/originals/c6/b3/0d/c6b30d1a2dc178aeb92de63295d4ae64.gif"
   },
@@ -69,13 +69,8 @@ function App() {
     img: "https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif"
   }]
 
-  const randomResponse = () => {
-  
-   
-do {
- let index = 1;
-  index++;
-} while (index <= 5);
+  const randomResponse = () => {  
+    let index = Math.floor(Math.random() * 11);
     console.log(random[index])
     if (agrandar <= 500) {
       setAgrandar(agrandar + 10)
