@@ -14,33 +14,33 @@ function App() {
 
   let random = [{
     id: 1,
-    description: "Di si por favor",
+    description: "Di si por favor Mi Renegona 😘",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
     id: 1,
-    description: "Piénsalo de nuevo.",
+    description: "Piénsalo de nuevo de Nuevo Aguante tus Corridas Por Mocloa jaja.",
     img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
   }
     ,
   {
     id: 2,
-    description: "Vamos, atrévete a decir que sí.",
+    description: "Tbm tus bloqueadas Por gusto.",
     img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
   },
   {
     id: 3,
-    description: "No tengas miedo, será genial.",
+    description: "No le temas Al Exito BB 😘.",
     img: "https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif"
   },
   {
     id: 4,
-    description: "Confía en mí, será divertido.",
+    description: "Confía en mí y Sale su Pollito a la brasa xD.",
     img: "https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif"
   },
   {
     id: 5,
-    description: "No tengas dudas, te hará sonreír.",
+    description: "No tengas dudas, te hará sonreír por siempre Hermosa.",
     img: "https://i.pinimg.com/originals/c6/b3/0d/c6b30d1a2dc178aeb92de63295d4ae64.gif"
   },
   {
@@ -65,7 +65,7 @@ function App() {
   },
   {
     id: 10,
-    description: "No te arrepentirás.",
+    description: "No te arrepentirás Mi Amor ❤️ .",
     img: "https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif"
   }]
 
@@ -117,7 +117,7 @@ function App() {
           </div>
         ) : (
           <div className="flex justify-center items-center flex-col space-y-10">
-            <h1 className="text-4xl text-white font-bold">Sabia que dirias que si ❤️!</h1>
+            <h1 className="text-4xl text-white font-bold">Sabia que dirias que si =) ❤️ TE AMO ABIGAIL ❤️!!</h1>
             <img src="https://i.pinimg.com/originals/9b/dc/c6/9bdcc6206c1d36a37149d31108c6bb41.gif" alt="" className="mx-auto" />
             <span hidden>{document.title = 'Sabia que dirias que si =) ❤️ TE AMO ABIGAIL ❤️!'}</span>
           </div>
