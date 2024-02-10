@@ -75,7 +75,7 @@ function App() {
     if (agrandar <= 500) {
       setAgrandar(agrandar + 10)
     }
-    setRandomValor(random[index]);
+    setRandomValor(random[index++]);
   }
 
 
