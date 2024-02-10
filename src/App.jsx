@@ -70,7 +70,7 @@ function App() {
   }]
 
   const randomResponse = () => {
-  let index = 0;
+  let index = 1;
    
     let x = 0;
 while (n < 12) {
