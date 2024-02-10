@@ -70,7 +70,11 @@ function App() {
   }]
 
   const randomResponse = () => {
-    let index = index++;
+    let i = 1:
+    do {
+      i = i + 1;
+    } while (i < 12);
+    
     console.log(random[index])
     if (agrandar <= 500) {
       setAgrandar(agrandar + 10)
