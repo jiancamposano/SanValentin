@@ -18,7 +18,7 @@ function App() {
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
-    id: 1,
+    id: 2,
     description: "Piénsalo de nuevo de Nuevo Aguante tus Corridas Por Mocloa jaja.",
     img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
   }
