@@ -18,7 +18,7 @@ function App() {
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
-    id: 2,
+    id: 1,
     description: "Piénsalo de nuevo de Nuevo Aguante tus Corridas Por Mocloa jaja.",
     img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
   }
@@ -70,13 +70,12 @@ function App() {
   }]
 
   const randomResponse = () => {
-  let index = 0;
+  let index = 1;
    
-    let x = 0;
-while (index < 12) {
+do {
+ 
   index++;
-  x += index;
-}
+} while (index <= 5);
     console.log(random[index])
     if (agrandar <= 500) {
       setAgrandar(agrandar + 10)
