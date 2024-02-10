@@ -25,7 +25,7 @@ function App() {
     ,
   {
     id: 2,
-    description: "Tbm tus bloqueadas Por gusto.",
+    description: "Sobrevivia a tus bloqueadas Por gusto.",
     img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
   },
   {
@@ -40,12 +40,12 @@ function App() {
   },
   {
     id: 5,
-    description: "No tengas dudas, te hará sonreír por siempre Hermosa.",
+    description: "No tengas dudas, te hare sonreír por siempre Hermosa.",
     img: "https://i.pinimg.com/originals/c6/b3/0d/c6b30d1a2dc178aeb92de63295d4ae64.gif"
   },
   {
     id: 6,
-    description: "Te prometo que será inolvidable.",
+    description: "Te prometo estar siempre en todo momentos.",
     img: "https://media.tenor.com/N2oqtqaB_G0AAAAi/peach-goma.gif"
   },
   {
