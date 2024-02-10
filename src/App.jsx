@@ -70,7 +70,7 @@ function App() {
   }]
 
   const randomResponse = () => {
-  let index = Math.floor(Math.random() * 11);
+  let index = 1;
     console.log(random[index])
     if (agrandar <= 500) {
       setAgrandar(agrandar + 10)
